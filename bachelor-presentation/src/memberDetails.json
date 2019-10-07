@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Gorm-Erik Aarsheim",
+        "description": "Gorm-Erik er en programmerer. Han har erfaring fra Bouvet hvor han jobbet som konsulent sommeren 2019. Her brukte han teknologiene ASP.NET core, React og Microsoft Azure. \n I tillegg har han erfaring med Angular, Java, Go, Python, Git",
+        "imgUrl": "https://avatars0.githubusercontent.com/u/35703118?s=460&v=4",
+        "linkedInUrl": "https://www.linkedin.com/in/gorm-erik-aarsheim-aa1b9b13b/",
+        "githubUrl": "https://github.com/gormaar"
+    },
+    {
+        "name": "Vegard Alvsaker",
+        "description": "Vegard er en programmerer. Han har erfaring fra Bouvet hvor han jobbet som konsulent sommeren 2019. Her brukte han teknologiene ASP.NET core, React og Microsoft Azure. \n I tillegg har han erfaring med Angular, Java, Go, Python, Git",
+        "imgUrl": "https://avatars1.githubusercontent.com/u/35599899?s=460&v=4",
+        "linkedInUrl": "https://www.linkedin.com/in/vegard-alvsaker-797970ba/",
+        "githubUrl": "https://github.com/vegardalvsaker"
+    },
+    {
+        "name": "Ingve Fosse",
+        "description": "Ingve er en programmerer. Han har erfaring fra Bouvet hvor han jobbet som konsulent sommeren 2019. Her brukte han teknologiene ASP.NET core, React og Microsoft Azure. \n I tillegg har han erfaring med Angular, Java, Go, Python, Git",
+        "imgUrl": "https://avatars2.githubusercontent.com/u/32854037?s=460&v=4",
+        "linkedInUrl": "#",
+        "githubUrl": "https://github.com/ingvefosse"
+    },
+    {
+        "name": "Marius Johansen Holen",
+        "description": "Marius er en programmerer. Han har erfaring fra Bouvet hvor han jobbet som konsulent sommeren 2019. Her brukte han teknologiene ASP.NET core, React og Microsoft Azure. \n I tillegg har han erfaring med Angular, Java, Go, Python, Git",
+        "imgUrl": "https://avatars1.githubusercontent.com/u/35805806?s=460&v=4",
+        "linkedInUrl": "https://www.linkedin.com/in/marius-holen/",
+        "githubUrl": "https://github.com/mariusholen"
+    },
+    {
+        "name": "Espen Sivertsen Oftedal",
+        "description": "Espen er en programmerer. Han har erfaring fra Bouvet hvor han jobbet som konsulent sommeren 2019. Her brukte han teknologiene ASP.NET core, React og Microsoft Azure. \n I tillegg har han erfaring med Angular, Java, Go, Python, Git",
+        "imgUrl": "https://avatars1.githubusercontent.com/u/35786295?s=460&v=4",
+        "linkedInUrl": "https://www.linkedin.com/in/espen-sivert-oftedal/",
+        "githubUrl": "https://github.com/Espen84"
+    },
+    {
+        "name": "Kevin Archival Smørdal",
+        "description": "Kevin er en programmerer. Han har erfaring fra Bouvet hvor han jobbet som konsulent sommeren 2019. Her brukte han teknologiene ASP.NET core, React og Microsoft Azure. \n I tillegg har han erfaring med Angular, Java, Go, Python, Git",
+        "imgUrl": "https://avatars0.githubusercontent.com/u/35805142?s=460&v=4",
+        "linkedInUrl": "https://www.linkedin.com/in/kevin-sm%C3%B8rdal-775607194/",
+        "githubUrl": "https://github.com/Fiskehandler"
+    }
+]
