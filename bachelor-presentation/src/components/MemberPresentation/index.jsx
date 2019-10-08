@@ -10,14 +10,14 @@ import github from "../../svg/github.svg";
 const members = require("../../memberDetails.json");
 
 const MemberPresentation = () => {
-    const cardStyles = classnames(styles.card, 'my-2 mb-4')
+    const cardStyles = classnames(styles.card, 'my-2 mb-4 border-top')
     return (
         <Container>
             <Row className="mt-4">
                 {members.map(member => (
                     <Col lg={{ span: 4, offset: 2 }} md={6} key={member.name}>
                         <Card className={cardStyles}>
-                            <Card.Img style={{ borderRadius: 0 }} variant="top" src={member.imgUrl} />
+                            <Card.Img variant="top" src={member.imgUrl} />
                             <Card.Body>
                                 <Card.Header className={styles.headerTitle}>{member.name}</Card.Header>
                                 <Card.Text className="mt-2">{member.description}</Card.Text>

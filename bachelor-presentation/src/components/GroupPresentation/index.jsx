@@ -12,7 +12,7 @@ const GroupPresentation = () => {
             <Jumbotron className={jumboStyles}>
                 <Container>
                     <h1>Brukerfeil</h1>
-                    <p>Vi er en gjeng på seks kamerater som jobber sammen i gruppe. Gruppen er en sammensveiset gjeng som er glad i teknologi og utvikling.
+                    <p className={styles.paragraph}>Vi er en gjeng på seks kamerater som jobber sammen i gruppe. Gruppen er en sammensveiset gjeng som er glad i teknologi og utvikling.
                         Medlemmene har blandet bakgrunner og erfaringer, men sammen utfyller vi hverandre. Vi har erfaringer ved utviklingsprosjekter med både planlegging- og design,
                     og selve utviklingen. </p>
                 </Container>

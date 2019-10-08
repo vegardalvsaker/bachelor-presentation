@@ -1,7 +1,6 @@
 .card {
     width: "18rem";
-    border: 0px solid var(--color-primary) !important;
-    border-radius: 0;
+    border: 3px solid var(--color-primary) !important;
 }
 
 .headerTitle {
