@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/bachelor-presentation/static/css/main.1a6429a9.chunk.css",
-    "main.js": "/bachelor-presentation/static/js/main.66588b88.chunk.js",
-    "main.js.map": "/bachelor-presentation/static/js/main.66588b88.chunk.js.map",
+    "main.css": "/bachelor-presentation/static/css/main.58fe6799.chunk.css",
+    "main.js": "/bachelor-presentation/static/js/main.ab90a5f6.chunk.js",
+    "main.js.map": "/bachelor-presentation/static/js/main.ab90a5f6.chunk.js.map",
     "runtime-main.js": "/bachelor-presentation/static/js/runtime-main.8685ef05.js",
     "runtime-main.js.map": "/bachelor-presentation/static/js/runtime-main.8685ef05.js.map",
     "static/js/2.e61fbc1e.chunk.js": "/bachelor-presentation/static/js/2.e61fbc1e.chunk.js",
     "static/js/2.e61fbc1e.chunk.js.map": "/bachelor-presentation/static/js/2.e61fbc1e.chunk.js.map",
     "index.html": "/bachelor-presentation/index.html",
-    "precache-manifest.b6193f97ae1b1c12cb0f549c5d0f0c4c.js": "/bachelor-presentation/precache-manifest.b6193f97ae1b1c12cb0f549c5d0f0c4c.js",
+    "precache-manifest.47fda9644c41be47a2d8450191a91b4e.js": "/bachelor-presentation/precache-manifest.47fda9644c41be47a2d8450191a91b4e.js",
     "service-worker.js": "/bachelor-presentation/service-worker.js",
-    "static/css/main.1a6429a9.chunk.css.map": "/bachelor-presentation/static/css/main.1a6429a9.chunk.css.map",
+    "static/css/main.58fe6799.chunk.css.map": "/bachelor-presentation/static/css/main.58fe6799.chunk.css.map",
     "static/media/github.svg": "/bachelor-presentation/static/media/github.edc7e894.svg",
     "static/media/linkedin.svg": "/bachelor-presentation/static/media/linkedin.937b5084.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8685ef05.js",
     "static/js/2.e61fbc1e.chunk.js",
-    "static/css/main.1a6429a9.chunk.css",
-    "static/js/main.66588b88.chunk.js"
+    "static/css/main.58fe6799.chunk.css",
+    "static/js/main.ab90a5f6.chunk.js"
   ]
 }
