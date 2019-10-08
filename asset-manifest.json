@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bachelor-presentation/static/css/main.23534154.chunk.css",
+    "main.js": "/bachelor-presentation/static/js/main.f5ef0430.chunk.js",
+    "main.js.map": "/bachelor-presentation/static/js/main.f5ef0430.chunk.js.map",
+    "runtime-main.js": "/bachelor-presentation/static/js/runtime-main.8685ef05.js",
+    "runtime-main.js.map": "/bachelor-presentation/static/js/runtime-main.8685ef05.js.map",
+    "static/js/2.687b68bd.chunk.js": "/bachelor-presentation/static/js/2.687b68bd.chunk.js",
+    "static/js/2.687b68bd.chunk.js.map": "/bachelor-presentation/static/js/2.687b68bd.chunk.js.map",
+    "index.html": "/bachelor-presentation/index.html",
+    "precache-manifest.01927854471456767a6162def40f0d7d.js": "/bachelor-presentation/precache-manifest.01927854471456767a6162def40f0d7d.js",
+    "service-worker.js": "/bachelor-presentation/service-worker.js",
+    "static/css/main.23534154.chunk.css.map": "/bachelor-presentation/static/css/main.23534154.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8685ef05.js",
+    "static/js/2.687b68bd.chunk.js",
+    "static/css/main.23534154.chunk.css",
+    "static/js/main.f5ef0430.chunk.js"
+  ]
+}
