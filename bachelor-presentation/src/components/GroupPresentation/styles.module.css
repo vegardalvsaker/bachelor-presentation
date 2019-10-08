@@ -1,3 +1,4 @@
 .jumbo {
-    background: transparent !important;
+    background-color: var(--color-primary) !important;
+    border-radius: 0;
 }

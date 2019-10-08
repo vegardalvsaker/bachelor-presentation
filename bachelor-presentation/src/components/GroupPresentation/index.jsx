@@ -9,7 +9,7 @@ const GroupPresentation = () => {
 
     return (
         <div>
-            <Jumbotron>
+            <Jumbotron className={jumboStyles}>
                 <Container>
                     <h1>Brukerfeil</h1>
                     <p>Vi er en gjeng på seks kamerater som jobber sammen i gruppe. Gruppen er en sammensveiset gjeng som er glad i teknologi og utvikling.
