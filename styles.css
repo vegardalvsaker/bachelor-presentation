@@ -1,3 +1,18 @@
-body {
-    /*background-color: #7284A8;*/
+html, body {
+    font-family: 'Raleway', sans-serif;
+    background-color: var(--color-secondary);
+}
+
+.bg-primary {
+    background-color: #4FB477;
+}
+
+.bg-secondary {
+    background-color: #DCFFFD;
+}
+
+:root {
+    --color-primary: #4FB477;
+    --color-secondary: #DCFFFD;
+    --color-tertiary: #3F6634;
 }
