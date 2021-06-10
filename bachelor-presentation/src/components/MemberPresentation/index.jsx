@@ -13,6 +13,7 @@ const MemberPresentation = () => {
     const cardStyles = classnames(styles.card, 'my-2 mb-4 border-top')
     return (
         <Container>
+            <h1 className="text-center mb-4 pb-4">Medlemmene:</h1>
             <Row className="mt-4">
                 {members.map(member => (
                     <Col lg={{ span: 4, offset: 2 }} md={6} key={member.name}>
